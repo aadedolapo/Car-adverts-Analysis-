@@ -1,76 +1,30 @@
-<p style="text-align:center;">
-    <img src="mmu-logo.png" 
-        alt="Logo" 
-        width="400" 
-        height="200">
-</p>
-
-<h1 style="text-align:center"> 
-    <font size="15"> 
-        <b>AutoTrader Car Sales Adverts Analysis Report</b>
-    </font>
-</h1>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<p style="text-align:center"> 
-    <font size="4"> 
-        <b>Course Title</b>
-        <p style="text-align:center"> Principles of Data Science (6G7V0026_2223_9F)</p>
-    </font>
-</p>
-<br />
-<p style="text-align:center"> 
-    <font size="4"> 
-        <b>Name</b>
-        <p style="text-align:center">Adebo Dolapo Kingsley</p>
-        <p style="text-align:center">22539980</p>
-    </font>
-</p>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
 # Table of Content
 1. [Introduction](#introduction)
 2. [Data Understanding and Exploration](#DataUnderstanding)
 
-    1.1. [Meaning and Type of Features; Analysis ofDistributions](#meaning)
+    2.1. [Meaning and Type of Features; Analysis ofDistributions](#meaning)
     
-    1.2. [Identification/Commenting on Missing Values](#missing)
+    2.2. [Identification/Commenting on Missing Values](#missing)
     
-    1.3. [Identification/Commenting on Outliers and Noise](#outliers)
+    2.3. [Identification/Commenting on Outliers and Noise](#outliers)
     
     
-2. [Data Processing](#Processing)
+3. [Data Processing](#Processing)
 
-    2.1. [Dealing with Missing Values, Outliers, and Noise](#dealing)
+    3.1. [Dealing with Missing Values, Outliers, and Noise](#dealing)
     
-    2.2. [Feature Engineering, Data Transformations](#engineering)
+    3.2. [Feature Engineering, Data Transformations](#engineering)
     
-    2.3. [Subsetting (e.g., Feature Selection, Data Sampling](#subset)
+    3.3. [Subsetting (e.g., Feature Selection, Data Sampling](#subset)
     
 
-3. [Association and Group Differences Analysis](#association)
+4. [Association and Group Differences Analysis](#association)
 
-    3.1. [Quantitative-Quantitative](#numerical)
+    4.1. [Quantitative-Quantitative](#numerical)
     
-    3.2. [Quantitative-Categorical](#num-cat)
+    4.2. [Quantitative-Categorical](#num-cat)
     
-    3.3. [Categorical-Categorical](#cat-cat)
+    4.3. [Categorical-Categorical](#cat-cat)
 5. [Conclusion](#conclusion)
 
 <br />
